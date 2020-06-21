@@ -2,11 +2,10 @@
 Code release for the paper [ReMarNet: Conjoint Relation and Margin Learningfor Small-Sample Image Classification](#).
 
 ## Dataset
-#### UIUC_Sports
-You can download the dataset  at http://vision.stanford.edu/lijiali/event_dataset/
+#### UIUC-Sports
 UIUC-Sports contains 1578 sports scene images of 8 classes: bocce (137), polo (182),rowing (250), sailing (190), snowboarding (190), rock climb-ing (194), croquet (236) and badminton (200). A training set of 749 images and a test set of 749 images are randomly sampled
 from the entire dataset. 
-
+You can download the dataset  at http://vision.stanford.edu/lijiali/event_dataset/
 The style of our randomly divided dataset is shown in the related Excel table. You can divide the dataset according to the name of the sample in our table.
 
 ## Requirements
