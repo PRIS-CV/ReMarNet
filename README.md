@@ -41,13 +41,22 @@ python LabelMe_RN.py
         <td colspan="1" align='center'>Snapshot</td>
         <td colspan="1" align='center'>Ours</td>
     </tr>
-    <tr>
-        <td rowspan="2" align='center'>UIUC_Sports</td>    
-        <td align='center'>Mean</td>  
+     <tr>
+        <td rowspan="2" align='center'>UIUC-Sports</td>    
+        <td align='center'>0.9476</td>  
+        <td align='center'>0.9514 </td>
+        <td align='center'>0.9492</td>
+        <td align='center'>0.9492</td>
+        <td align='center'>0.9485</td>
+        <td align='center'>0.9472</td>
+        <td align='center'>0.9437</td>
+        <td align='center'>0.9581</td>
+
     </tr>
     <tr>
         <td align='center'>Std.</td>  
     </tr>
+
 
 
 
