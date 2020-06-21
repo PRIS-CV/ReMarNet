@@ -2,7 +2,8 @@
 Code release for the paper [ReMarNet Conjoint Relation and Margin Learningfor Small-Sample Image Classification](#).
 
 ## Dataset
-##### UIUC_Sports
+#### UIUC_Sports
+You can download the data  at http://vision.stanford.edu/lijiali/event_dataset/
 
 ## Requirements
 * python=2.7
