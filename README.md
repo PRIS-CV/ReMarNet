@@ -17,15 +17,15 @@ You can download the dataset  at http://vision.stanford.edu/lijiali/event_datase
 * Download datasets
 * You can run the code using the following command:
 ```
-python LabelMe_1_1_FC_epoch_50.py
-python python LabelMe_1_3_FC_Dual.py
-python LabelMe_1_4_FC_LGM.py
-python LabelMe_1_5_FC_LMCL.py
-python LabelMe_1_6_FC_Center.py
-python LabelMe_1_7_FC_Snapshot.py
-python LabelMe_1_8_FC_Dropout.py
-python LabelMe_1_9_Ours.py
-python LabelMe_1_10_RN.py
+python LabelMe_FC_epoch_50.py
+python python LabelMe_FC_Dual.py
+python LabelMe_FC_LGM.py
+python LabelMe_FC_LMCL.py
+python LabelMe_FC_Center.py
+python LabelMe_FC_Snapshot.py
+python LabelMe_FC_Dropout.py
+python LabelMe_Ours.py
+python LabelMe_RN.py
 ```
 
 
