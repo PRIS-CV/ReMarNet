@@ -74,5 +74,10 @@ If you find this paper useful in your research, please consider citing:
 
 ```
 
+## Contact
+Thanks for your attention! If you have any suggestion or question, you can leave a message here or contact us directly:
+* xiaoxulilut@gmail.com
+* yuliyunlut@hotmail.com
+
 ## Dataset citation
 Li-Jia Li and Li Fei-Fei. What, where and who? Classifying event by scene and object recognition . IEEE Intern. Conf. in Computer Vision (ICCV). 2007 (PDF) 
