@@ -51,7 +51,6 @@ python LabelMe_RN.py
         <td align='center'>0.9472</td>
         <td align='center'>0.9437</td>
         <td align='center'>0.9581</td>
-
     </tr>
     <tr>
         <td align='center'>Std.</td>  
