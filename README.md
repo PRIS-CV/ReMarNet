@@ -31,7 +31,7 @@ python LabelMe_RN.py
 <table>
     <tr>
         <td colspan="1" align='center'>Dataset</td>
-        <td colspan="1" align='center'>Measure/td>
+        <td colspan="1" align='center'>Measure</td>
         <td colspan="1" align='center'>Baseline</td>
         <td colspan="1" align='center'>Center</td>
         <td colspan="1" align='center'>LGM</td>
@@ -43,9 +43,10 @@ python LabelMe_RN.py
     </tr>
     <tr>
         <td rowspan="2" align='center'>UIUC_Sports</td>
-        <td align='center'>5-way 5-shot Accuracy (%)</td>
-        <td align='center'>5-way 1-shot Accuracy (%)</td>
+        <td align='center'>Mean</td>
+        <td align='center'>Std.</td>
     </tr>
+
 
 
 
