@@ -18,7 +18,7 @@ You can download the dataset  at http://vision.stanford.edu/lijiali/event_datase
 * You can run the code using the following command:
 ```
 python LabelMe_FC_epoch_50.py
-python python LabelMe_FC_Dual.py
+python LabelMe_FC_Dual.py
 python LabelMe_FC_LGM.py
 python LabelMe_FC_LMCL.py
 python LabelMe_FC_Center.py
