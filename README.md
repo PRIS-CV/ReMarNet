@@ -28,10 +28,18 @@ python LabelMe_Ours.py
 python LabelMe_RN.py
 ```
 ## results
-
 <table>
     <tr>
-        <td colspan="10" align='center'>Dataset &plusmn; Measure &plusmn; Baseline &plusmn; Center &plusmn; LGM &plusmn; LMCL &plusmn; Dual&plusmn; Dropout&plusmn; Snapshot &plusmn; Ours</td>
+        <td colspan="1" align='center'>Dataset</td>
+        <td colspan="1" align='center'>Measure/td>
+        <td colspan="1" align='center'>Baseline</td>
+        <td colspan="1" align='center'>Center</td>
+        <td colspan="1" align='center'>LGM</td>
+        <td colspan="1" align='center'>LMCL</td>
+        <td colspan="1" align='center'>Dual</td>
+        <td colspan="1" align='center'>Dropout</td>
+        <td colspan="1" align='center'>Snapshot</td>
+        <td colspan="1" align='center'>Ours</td>
     </tr>
     <tr>
         <td align='center'></td>
