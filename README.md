@@ -42,25 +42,13 @@ python LabelMe_RN.py
         <td colspan="1" align='center'>Ours</td>
     </tr>
     <tr>
-        <td align='center'></td>
+        <td rowspan="2" align='center'>UIUC_Sports</td>
         <td align='center'>5-way 5-shot Accuracy (%)</td>
         <td align='center'>5-way 1-shot Accuracy (%)</td>
     </tr>
-    <tr>
-        <td align='center'>Relation Network</td>
-        <td align='center'>77.87 &plusmn; 0.64</td>
-        <td align='center'>63.94 &plusmn; 0.92</td>
-    </tr>
-    <tr>
-        <td align='center'>Cosine Network</td>
-        <td align='center'>77.86 &plusmn; 0.68</td>
-        <td align='center'>65.04 &plusmn; 0.97</td>
-    </tr>
-    <tr>
-        <td align='center'>BSNet (R&C)</td>
-        <td align='center'><b>80.99 &plusmn; 0.63</b></td>
-        <td align='center'><b>65.89 &plusmn; 1.00</b></td>
-    </tr>
+
+
+
 </table>
 
 
