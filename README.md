@@ -42,9 +42,11 @@ python LabelMe_RN.py
         <td colspan="1" align='center'>Ours</td>
     </tr>
     <tr>
-        <td rowspan="2" align='center'>UIUC_Sports</td>
-        <td align='center'>Mean</td>
-        <td align='center'>Std.</td>
+        <td rowspan="2" align='center'>UIUC_Sports</td>    
+        <td align='center'>Mean</td>  
+    </tr>
+    <tr>
+        <td align='center'>Std.</td>  
     </tr>
 
 
