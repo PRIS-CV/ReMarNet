@@ -15,7 +15,7 @@ You can download the dataset  at http://vision.stanford.edu/lijiali/event_datase
 
 ## Training
 * Download datasets
-You can run the code using the following command:
+* You can run the code using the following command:
 ```
 python LabelMe_1_1_FC_epoch_50.py
 python python LabelMe_1_3_FC_Dual.py
