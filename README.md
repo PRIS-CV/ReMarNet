@@ -19,16 +19,8 @@ from the entire dataset.
 * Download datasets
 * You can run the code using the following command:
 ```
-python UIUC_baseline.py
-python UIUC_FC_Dual.py 
-python UIUC_FC_LGM.py 
-python UIUC_FC_LMCL.py 
-python UIUC_FC_Center.py
-python UIUC_FC_Snapshot.py 
-python UIUC_FC_Dropout.py 
-python UIUC_Ours.py 
-
-
+python UIUC_ReMarNet.py
+python UIUC_Baseline.py 
 ```
 ## results
 <table>
@@ -36,35 +28,17 @@ python UIUC_Ours.py
         <td colspan="1" align='center'>Dataset</td>
         <td colspan="1" align='center'>Measure</td>
         <td colspan="1" align='center'>Baseline</td>
-        <td colspan="1" align='center'>Center</td>
-        <td colspan="1" align='center'>LGM</td>
-        <td colspan="1" align='center'>LMCL</td>
-        <td colspan="1" align='center'>Dual</td>
-        <td colspan="1" align='center'>Dropout</td>
-        <td colspan="1" align='center'>Snapshot</td>
         <td colspan="1" align='center'>Ours</td>
     </tr>
      <tr>
         <td rowspan="2" align='center'>UIUC-Sports</td>   
         <td align='center'>Mean</td>
         <td align='center'>0.9476</td>  
-        <td align='center'>0.9514 </td>
-        <td align='center'>0.9492</td>
-        <td align='center'>0.9492</td>
-        <td align='center'>0.9485</td>
-        <td align='center'>0.9472</td>
-        <td align='center'>0.9437</td>
         <td align='center'>0.9581</td>
     </tr>
     <tr>
         <td align='center'>Std.</td>  
         <td align='center'>0.0045</td>  
-        <td align='center'>0.0032</td>
-        <td align='center'>0.0055</td>
-        <td align='center'>0.0052</td>
-        <td align='center'>0.0040</td>
-        <td align='center'>0.0044</td>
-        <td align='center'>0.0045</td> 
         <td align='center'>0.0038</td>
     </tr>
 
@@ -79,8 +53,10 @@ If you find this paper useful in your research, please consider citing:
 
 ## Contact
 Thanks for your attention! If you have any suggestion or question, you can leave a message here or contact us directly:
+* mazhanyu@bupt.edu.cn
 * xiaoxulilut@gmail.com
 * yuliyunlut@hotmail.com
+
 
 ## Dataset citation
 Li-Jia Li and Li Fei-Fei. What, where and who? Classifying event by scene and object recognition . IEEE Intern. Conf. in Computer Vision (ICCV). 2007 (PDF) 
