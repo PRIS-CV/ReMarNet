@@ -6,6 +6,7 @@ Code release for the paper [ReMarNet: Conjoint Relation and Margin Learningfor S
 * UIUC-Sports contains 1578 sports scene images of 8 classes: bocce (137), polo (182),rowing (250), sailing (190), snowboarding (190), rock climb-ing (194), croquet (236) and badminton (200). A training set of 749 images and a test set of 749 images are randomly sampled
 from the entire dataset. 
 * You can download the dataset  at http://vision.stanford.edu/lijiali/event_dataset/.
+(Li-Jia Li and Li Fei-Fei. What, where and who? Classifying event by scene and object recognition . IEEE Intern. Conf. in Computer Vision (ICCV). 2007 (PDF) )
 * The style of our randomly divided dataset is shown in the related Excel table. You can divide the dataset according to the name of the sample in our table.
 
 ## Requirements
@@ -22,7 +23,7 @@ from the entire dataset.
 python UIUC_ReMarNet.py
 python UIUC_Baseline.py 
 ```
-## results
+## Results
 <table>
     <tr>
         <td colspan="1" align='center'>Dataset</td>
@@ -60,5 +61,4 @@ Thanks for your attention! If you have any suggestion or question, you can leave
 
 
 
-## Dataset citation
-Li-Jia Li and Li Fei-Fei. What, where and who? Classifying event by scene and object recognition . IEEE Intern. Conf. in Computer Vision (ICCV). 2007 (PDF) 
+
