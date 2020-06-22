@@ -1,5 +1,5 @@
-# ReMarNet: Conjoint Relation and Margin Learningfor Small-Sample Image Classification
-Code release for the paper [ReMarNet: Conjoint Relation and Margin Learningfor Small-Sample Image Classification](#).
+# ReMarNet: Conjoint Relation and Margin Learning for Small-Sample Image Classification
+Code release for the paper [ReMarNet: Conjoint Relation and Margin Learning for Small-Sample Image Classification](#).
 
 ## Dataset
 #### UIUC-Sports
@@ -53,7 +53,7 @@ If you find this paper useful in your research, please consider citing:
 ```
 
 ## Contact
-Thanks for your attention! If you have any suggestion or question, you can leave a message here or contact us directly:
+Thanks for your attention! If you have any suggestions or questions, you can leave a message here or contact us directly:
 * yuliyunlut@hotmail.com
 * xiaochen.yang.16@ucl.ac.uk
 * mazhanyu@bupt.edu.cn
